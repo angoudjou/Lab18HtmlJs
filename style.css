@@ -1,0 +1,59 @@
+
+#content{
+  /*  padding-top: 50px; */
+
+}
+
+container
+{
+width: 800px;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+a:link, a:visited , a:active, a:hover
+{
+    text-decoration: none;
+    text-decoration-style: none;
+    
+}
+ul a {
+    padding: 15px;
+    border: powderblue solid;
+    margin: 0px;
+   
+}
+
+ul a:hover{
+    border-style: solid;
+    border-color: slateblue ;
+        
+}
+p {
+    text-align: justify;
+    line-height: 150%;
+    margin: 0px;
+}
+h2{
+margin: auto 0px, auto 0px;
+}
+
+#logo{
+ padding: 4px;
+ border: 1px dashed darkorchid;
+ width: 200px;
+ margin:  0px, 2px , 0px, 2px;
+ 
+}
+ body{
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     padding-top: 50px;
+ }
+.email , .github{
+    font-style: italic;
+}
+.period, .description{
+    margin-right: 0px;
+    font-style: italic;
+}  
